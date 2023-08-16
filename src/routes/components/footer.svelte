@@ -1,7 +1,7 @@
 <footer>
-	<p>Thank you for visiting my website.</p>
-	<div>Made with<p class="love">&#10084;</p>by <a href="https://github.com/Sreejithgupta">Sreejith KS</a></div>
-	<p>Go to <a href="https://github.com/sreejithksgupta/ceasercipher">Github</a></p>
+	<p>my <a href="https://myportfolio-8fi.pages.dev/">portifolio</a></p>
+	<div>Made with<p class="love">&#10084;</p>by <a href="https://github.com/SreejithKSGupta/">Sreejith KS</a></div>
+	<p>Go to <a href="https://github.com/SreejithKSGupta/ceasercipher">Github</a></p>
 </footer>
 
 <style>
